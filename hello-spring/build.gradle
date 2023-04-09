@@ -29,6 +29,7 @@ dependencies {
 // 디펜던시의 라이브러리들은 여러 파일들을 의존하기 때문에 스프링 앱에는 수 많은 파일들이 내장되어 있음
 // 좌측 하단의 아이콘을 누르면 우측 상단에 gradle 아이콘이 생기고 누르면 디펜던시의 라이브러리에서 쓰이는 파일들을 볼 수 있다.
 // slf4j와 logback을 사용해서 로그를 출력한다.
+// https://int-i.github.io/java/2022-10-02/slf4j-logback/
 
 
 tasks.named('test') {
