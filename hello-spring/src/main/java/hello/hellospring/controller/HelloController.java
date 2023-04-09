@@ -16,3 +16,5 @@ public class HelloController {
         // hello 문서를 보여줌
     }
 }
+
+// 빌드하고 실행하는 법: 터미널 -> 프로젝트 폴더 -> ./gradlew build -> build 폴더 -> libs 폴더 -> java -jar spring...
